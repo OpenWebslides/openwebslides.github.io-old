@@ -240,3 +240,34 @@
         }
     }
 }
+
+.person {
+  margin: 2em 0 3em;
+  clear: both;
+
+  img {
+    border-radius: 50%;
+    height: 6em;
+    float: left;
+    margin: -1em 1em 1em 0;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.4em;
+  }
+
+  .name {
+    font-weight: bold;
+  }
+
+  .faculty {
+    font-style: italic;
+  }
+
+  .email {
+    margin-left: 1em;
+    font-style: italic;
+    font-weight: normal;
+  }
+}
