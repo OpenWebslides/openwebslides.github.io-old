@@ -2,7 +2,6 @@
 layout: post
 title: "Eerste coaching-dag"
 date: 2015-12-14 20:00:00 +0100
-permalink: /blog/:year/:title
 ---
 Vandaag was de eerste coaching-dag
 van de [Innoversity Challenge](http://innoversity-challenge.be/).
