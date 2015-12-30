@@ -6,7 +6,7 @@ order: 50
 ---
 
 Het Innoversity Challenge-team voor open webslides
-bestaat uit 4 enthousiaste UGent'ers.
+bestaat uit 5 enthousiaste UGent'ers.
 
 <div class="person">
   <img src="/images/ruben.jpg">
