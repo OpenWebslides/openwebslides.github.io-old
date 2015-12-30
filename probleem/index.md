@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Waarom
+title: Waarom webslides?
 permalink: /waarom/
 order: 20
 ---
 
-Waarom webslides?.
+* Eén platform
+* Co-creatie
+* Open knowledge
 
 In opbouw
