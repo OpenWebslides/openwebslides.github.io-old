@@ -44,3 +44,12 @@ bestaat uit 4 enthousiaste UGent'ers.
   <p class="job">doctoraatsstudente</p>
   <p class="faculty">Faculteit Bio-ingenieurswetenschappen</p>
 </div>
+<div class="person">
+  <img src="/images/raphael.jpg">
+  <p class="name">
+    <a href="#">Raphael Caluwe</a>
+    <a href="mailto:raphael.caluwe@ugent.be" class="email">email</a>
+  </p>
+  <p class="job">masterstudent</p>
+  <p class="faculty">Faculteit Rechtsgeleerdheid</p>
+</div>
