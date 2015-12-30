@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Probleem
-permalink: /probleem/
-order: 10
+title: Waarom
+permalink: /waarom/
+order: 20
 ---
 
-In opbouw.
+Waarom webslides?.
+
+*In opbouw*
