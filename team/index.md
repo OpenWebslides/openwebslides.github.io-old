@@ -47,7 +47,7 @@ bestaat uit 5 enthousiaste UGent'ers.
 <div class="person">
   <img src="/images/raphael.jpg">
   <p class="name">
-    <a href="#">Raphael Caluwe</a>
+    <a href="#">Raphaël Caluwé</a>
     <a href="mailto:raphael.caluwe@ugent.be" class="email">email</a>
   </p>
   <p class="job">masterstudent</p>
