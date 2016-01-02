@@ -5,8 +5,8 @@ layout: default
 <div class="home">
 
   <h1>
-    Het onderwijs van de toekomst<br>
-    begint met open-source lesslides op het web.
+    Het onderwijs van de toekomst begint
+    met open-source lesslides op het web.
   </h1>
 
   <p>
@@ -24,16 +24,13 @@ layout: default
 
   <img src="http://rubenverborgh.github.io/InnoversityChallenge/images/html-slides.svg" alt="">
 
-  <h1 class="page-heading">Nieuws</h1>
+  <h2>Nieuws</h1>
 
-  <ul class="post-list">
+  <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
