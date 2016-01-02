@@ -1,5 +1,8 @@
 html {
   background: #f0f0f0 url(../images/extra_clean_paper.png);
+  @include media-query($content-width) {
+    background-image: none; // save bandwidth on smaller screens
+  }
 }
 
 body {
