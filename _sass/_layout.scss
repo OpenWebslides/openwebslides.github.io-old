@@ -1,3 +1,7 @@
+html {
+  height: 100%;
+}
+
 body {
   font: #{$base-font-size}/#{$base-line-height} $base-font-family;
   -webkit-text-size-adjust: 100%;
@@ -7,6 +11,7 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal;
 
+  min-height: 100%;
   max-width: $content-width + 2 * $gutter;
   margin: 0 auto;
 }
@@ -19,12 +24,6 @@ header {
     font-weight: bold;
     margin: 0 0 .1em;
     line-height: 1em;
-  }
-
-  @include media-query($on-mobile) {
-    // Positioning context for the mobile navigation icon
-    min-height: 56px;
-    position: relative;
   }
 }
 

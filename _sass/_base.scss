@@ -93,6 +93,17 @@ footer {
   }
 }
 
+@include media-query($on-mobile) {
+  body {
+    font-size: 12pt !important;
+    line-height: 1.5em !important;
+  }
+
+  h1, header p {
+    font-size: 1.5em !important;
+  }
+}
+
 .posts {
   .date {
     margin-left: 1em;
