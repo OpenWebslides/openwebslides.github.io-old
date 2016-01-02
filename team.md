@@ -27,7 +27,7 @@ bestaat uit 5 enthousiaste UGent'ers.
   <p class="faculty">Faculteit Psychologie en Pedagogische Wetenschappen</p>
 </div>
 <div class="person">
-  <img src="/images/Bram.png">
+  <img src="/images/bram.jpg">
   <p class="name">
     <a href="https://www.researchgate.net/profile/Bram_De_Jaegher">Bram De Jaegher</a>
     <a href="mailto:bram.dejaegher@ugent.be" class="email">email</a>
