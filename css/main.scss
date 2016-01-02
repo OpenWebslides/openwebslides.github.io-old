@@ -25,6 +25,14 @@ $on-mobile:        600px;
     }
 }
 
+.clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
   "reset",

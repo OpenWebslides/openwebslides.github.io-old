@@ -39,6 +39,10 @@ h1 {
   font-size: 2.5em;
   line-height: 1.1em;
   margin: 0 0 .3em;
+
+  article & {
+    margin: 0;
+  }
 }
 
 h2 {
@@ -61,6 +65,17 @@ p.meta {
 
 img {
   max-width: 100%;
+}
+
+figure {
+  display: inline-block;
+  box-shadow: 3px 3px 6px #999999;
+  border: 2px solid gray;
+  margin: 0 0 .5em;
+}
+figcaption {
+  padding: 0 1em .5em;
+  font-size: .8em;
 }
 
 main ul {
@@ -108,6 +123,13 @@ footer {
   .date {
     margin-left: 1em;
   }
+  .prev {
+    float: left;
+  }
+  .next {
+    float: right;
+  }
+  @extend .clearfix;
 }
 
 .person {
