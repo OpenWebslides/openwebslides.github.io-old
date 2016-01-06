@@ -19,7 +19,7 @@ Lesgever
 * Slides kunnen organisch groeien.
 * Gedeelde slides leiden tot sterke internationale visibiliteit.
 
-Ugent
+UGent
 -------
 * Slides kunnen multidiscplinair naar elkaar linken.
 * De relevantie van onderwijsmateriaal wordt versterkt.
