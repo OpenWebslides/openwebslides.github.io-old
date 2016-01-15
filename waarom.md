@@ -5,17 +5,17 @@ permalink: /waarom/
 order: 20
 ---
 
-### Huidige problemen
+Huidige problemen
+------
+
 * Het cursusmateriaal is **gefragmenteerd** over verschillende platformen en formats (slides, cursusteksten, eigen nota’s, artikels, externe tutorials, oefeningen…). 
 * **Feedback** op de slides en ander lesmateriaal komt te laat. Lesgevers weten pas na de studentenevaluaties, als het semester reeds afgelopen is, wat de pijnpunten van de cursus zijn. Studenten kunnen ook maar in grote lijnen en niet specifiek per slide aangeven waar er verbetering nodig is.  
 * Als er een onduidelijkheid in de slides wordt besproken en opgehelderd op het Minerva-forum, **verdwijnt** dit weer bij de overgang naar het volgende semester. Studenten kunnen bijgevolg jaar na jaar op dezelfde moeilijkheden stoten.
 * Wanneer de lesgever naar leerstof uit andere vakken verwijst, is de student genoodzaakt een soms intensieve **zoektocht** doorheen zijn/haar computer of zolder te ondernemen.
 * Het **up-to-date** houden van de cursus is een zeer tijdrovend en intensief proces voor de lesgever. 
 
-
-
-### Wat bieden de Webslides?
-
+Wat bieden de Webslides?
+-----
 
 Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand verkleint tussen:
 
