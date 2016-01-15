@@ -12,3 +12,9 @@ __Afbeelding__
 Ook studenten kunnen bovendien een steentje bijdragen aan kwaliteitsvollere, overzichtelijkere slides. Door slides op een online samenwerkingsplatform te plaatsen, nodigt de lesgever iedereen uit om suggesties voor te stellen – direct al tijdens de les, of meteen erna. Deze suggesties kunnen zowel over de vorm gaan, om de opbouw van de leerstof beter te structureren, als over de inhoud. Studenten kunnen onder andere meer uitleg vragen bij onduidelijkheden, voorbeelden aanleveren die dichter bij hun leefwereld staan, of een nieuw artikel dat ze willen discussiëren. De lesgever kan dan de voorgestelde aanpassingen hij/zij relevant acht doorvoeren. Tegen de volgende les kan er dus al een update zijn!
 
 Als samenwerkingsplatform zal het populaire [Github](https://www.github.com "Github Homepage") gebruikt worden, online community waarop al tienduizenden softwareprojecten gedeeld worden. 
+
+###Wat is er nog allemaal mogelijk?
+
+* Open webslides kun je openen op zowel pc, tablet als op je smartphone.
+* Via URL's kan gemakkelijk doorgeklikt worden naar gerelateerde info uit andere cursussen of externe bronnen. 
+* Aanpassingen van anderen in de slides integreren wordt is eveneens een opportuniteit die het gebruik van HTML met zich meebrengt. Lesgevers kunnen dus gemakkelijk samenwerken aan dezelfde slides en de lesstofonderdelen optimaal op elkaar afstemmen. 
