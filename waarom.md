@@ -13,9 +13,12 @@ order: 20
 * Het **up-to-date** houden van de cursus is een zeer tijdrovend en intensief proces voor de lesgever. 
 
 
+
 ### Wat bieden de Webslides?
 
+
 Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand verkleint tussen:
+
 * De fragmenten van het cursusmateriaal
 * De verschillende vakken
 * De pioniers aan de Ugent (Community of Practice)
@@ -27,13 +30,15 @@ Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand v
 * software en hardware (slides op mobiel apparaat)
 
 
+
 Co-creatie
 
-* Cursusen zij nniet langer éénrichtingsverkeer.
+* Cursusen zij niet langer éénrichtingsverkeer.
 * Studenten co-creëren de cursus en "boosten" elkaars leerervaringen.
 * "De beste lesgevers leren van hun studenten"
 
 Open knowledge
+
 
 Als lesgevers hun slides openstellen, kan de kennis zich buiten de universiteitsmuren verspreiden. Maar even belangrijk: dan kan kennis van buiten de universiteitsmuren binnenkomen. Open betekent dat iedereen een bijdrage kan leveren, waardoor lesmateriaal geverifieerd en aangevuld kan worden in een internationale context. Een flinke opsteker naar kwaliteit en zichtbaarheid toe!
 
