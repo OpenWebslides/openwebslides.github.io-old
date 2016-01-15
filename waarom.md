@@ -33,7 +33,7 @@ Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand v
 
 Co-creatie
 
-* Cursusen zij niet langer éénrichtingsverkeer.
+* Cursusen zijn niet langer éénrichtingsverkeer.
 * Studenten co-creëren de cursus en "boosten" elkaars leerervaringen.
 * "De beste lesgevers leren van hun studenten"
 
