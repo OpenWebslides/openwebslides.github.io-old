@@ -17,4 +17,6 @@ Als samenwerkingsplatform zal het populaire [Github](https://www.github.com "Git
 
 * Open webslides kun je openen op zowel pc, tablet als op je smartphone.
 * Via URL's kan gemakkelijk doorgeklikt worden naar gerelateerde info uit andere cursussen of externe bronnen. 
-* Aanpassingen van anderen in de slides integreren wordt is eveneens een opportuniteit die het gebruik van HTML met zich meebrengt. Lesgevers kunnen dus gemakkelijk samenwerken aan dezelfde slides en de lesstofonderdelen optimaal op elkaar afstemmen. 
+* Aanpassingen van anderen in de slides integreren wordt is eveneens een opportuniteit die het gebruik van HTML met zich meebrengt. Lesgevers kunnen dus gemakkelijk samenwerken aan dezelfde slides en de lesstofonderdelen optimaal op elkaar afstemmen.
+
+In opbouw 
