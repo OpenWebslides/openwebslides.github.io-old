@@ -19,14 +19,14 @@ body {
 
 header {
   padding: 1em $gutter;
-  margin-bottom: 30px;
+  text-align: center;
 
   p {    
     font-size: 3em;
     font-weight: bold;
     margin: 0 0 .1em;
     line-height: 1em;
-
+    margin-bottom: 40px;
   }
 }
 
@@ -88,8 +88,6 @@ nav {
 
 main {
   padding: 0 $gutter;
-  border: 1px solid #dadada;
-  border-radius: 8px;
   margin-right: 30px;
   margin-left: 30px
 }
