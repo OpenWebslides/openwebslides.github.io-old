@@ -44,4 +44,4 @@ Als lesgevers hun slides openstellen, kan de kennis zich buiten de universiteits
 
 Dit idee volgt de voetsporen van de open-source community voor software: de bronmaterialen van ontelbare softwareprojecten zijn reeds publiek beschikbaar, zodat iedereen deze beter kan maken.
 
-In opbouw
+### In opbouw
