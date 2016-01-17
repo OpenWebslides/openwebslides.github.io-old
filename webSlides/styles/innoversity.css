@@ -1,0 +1,114 @@
+.slide a {
+  background: none !important;
+  border-bottom: 1px dashed;
+  transition: .2s color;
+}
+.slide a:hover {
+  color: #fab900;
+  border-bottom-style: solid;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 1.5;
+}
+
+li li {
+  font-size: .9em;
+}
+
+.title.slide::after {
+  font-size: 0;
+}
+
+.title.slide .logo {
+  float: right;
+  margin: 4em 15px .5em;
+}
+
+.title.slide h2 {
+  clear: both;
+  line-height: 1;
+  font-size: 3.1em;
+  margin: 0 0 .2em -.1em;
+}
+
+.title.slide h3 {
+  font-size: 1.7em;
+  line-height: 1.2;
+  letter-spacing: .2px;
+  margin: .2em 0 .5em;
+  font-weight: normal;
+}
+
+.title.slide p {
+  line-height: 1;
+}
+
+a.license {
+  float: right;
+  margin-right: 60px;
+  border-bottom: 0;
+}
+
+a.license img {
+  height: 1em;
+}
+
+.TODO {
+  color: red;
+}
+.TODO::before {
+  content: "TODO: ";
+}
+
+.person {
+  margin-bottom: 1em;
+}
+
+.person img {
+  border-radius: 50%;
+  height: 4.2em;
+  float: left;
+  clear: both;
+  margin-right: 1em;
+}
+
+.person p {
+  margin: 0;
+  line-height: 1.4em;
+}
+
+.person .name {
+  font-weight: bold;
+}
+
+.person .faculty {
+  font-style: italic;
+}
+
+.avatar {
+  border-radius: 50%;
+  height: 4em;
+  width: 4em;
+  background: #FBBA00;
+  border: 6px solid #FBBA00;
+  position: absolute;
+}
+
+.twitter-tweet {
+  transform: scale(.85);
+  transform-origin: 0 0;
+  margin: 0 auto;
+}
+
+.twitter-hashtag-button {
+  margin: 470px 690px;
+  transform: scale(1.5);
+}
+
+#chart {
+  height: 420px;
+  width: 800px;
+}
