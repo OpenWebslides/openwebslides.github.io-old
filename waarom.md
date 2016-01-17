@@ -17,7 +17,7 @@ Huidige problemen
 Wat bieden de Webslides?
 -----
 
-Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand verkleint tussen:
+### Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand verkleint tussen:
 
 * De fragmenten van het cursusmateriaal
 * De verschillende vakken
@@ -31,13 +31,13 @@ Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand v
 
 
 
-Co-creatie
+### Co-creatie
 
 * Cursusen zijn niet langer éénrichtingsverkeer.
 * Studenten co-creëren de cursus en "boosten" elkaars leerervaringen.
 * "De beste lesgevers leren van hun studenten"
 
-Open knowledge
+### Open knowledge
 
 
 Als lesgevers hun slides openstellen, kan de kennis zich buiten de universiteitsmuren verspreiden. Maar even belangrijk: dan kan kennis van buiten de universiteitsmuren binnenkomen. Open betekent dat iedereen een bijdrage kan leveren, waardoor lesmateriaal geverifieerd en aangevuld kan worden in een internationale context. Een flinke opsteker naar kwaliteit en zichtbaarheid toe!

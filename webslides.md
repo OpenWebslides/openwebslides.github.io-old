@@ -13,7 +13,8 @@ Ook studenten kunnen bovendien een steentje bijdragen aan kwaliteitsvollere, ove
 
 Als samenwerkingsplatform zal het populaire [Github](https://www.github.com "Github Homepage") gebruikt worden, online community waarop al tienduizenden softwareprojecten gedeeld worden. 
 
-###Wat is er nog allemaal mogelijk?
+Wat is er nog allemaal mogelijk?
+------------
 
 * Open webslides kun je openen op zowel pc, tablet als op je smartphone.
 * Via URL's kan gemakkelijk doorgeklikt worden naar gerelateerde info uit andere cursussen of externe bronnen. 
