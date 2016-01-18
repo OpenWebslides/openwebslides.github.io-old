@@ -13,7 +13,6 @@ Ook studenten kunnen bovendien een steentje bijdragen aan kwaliteitsvollere, ove
 
 ![opensource](images/open-source.svg)
 
-
 Als samenwerkingsplatform zal het populaire [Github](https://www.github.com "Github Homepage") gebruikt worden, online community waarop al tienduizenden softwareprojecten gedeeld worden. 
 
 Wat is er nog allemaal mogelijk?
