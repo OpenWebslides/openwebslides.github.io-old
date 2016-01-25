@@ -8,16 +8,16 @@ order: 20
 ### Gefragmenteerd cursusmateriaal 
 Het cursusmateriaal is gefragmenteerd over verschillende platformen en formats (slides, cursusteksten, eigen nota’s, artikels, externe tutorials, oefeningen…). Het bewaren van de duidelijke samenhang tussen de verschillende cursusonderdelen is zowel voor de lesgever als voor de student niet altijd vanzelfsprekend.  
 
-### Laattijdige feedback op de slides en ander lesmateriaal. 
+### Laattijdige feedback op de slides en ander lesmateriaal 
 Lesgevers weten pas na de studentenevaluaties, als het semester en de examenperiode reeds afgelopen is, wat de pijnpunten van de cursus zijn. Studenten kunnen ook maar in grote lijnen en niet specifiek per slide aangeven waar er verbetering nodig is.  
 
-### Jaarlijkse ‘reset’ van het Minervaforum. 
+### Jaarlijkse ‘reset’ van het Minervaforum 
 Als er een onduidelijkheid in de slides wordt besproken en opgehelderd op het Minerva-forum, verdwijnt dit weer bij de omschakeling naar het volgende schooljaar. Studenten kunnen bijgevolg jaar na jaar op dezelfde moeilijkheden stoten en lesgevers dienen bijgevolg jaar na jaar dezelfde moeilijkheden uit te klaren op het forum. 
 
 ### Linken van cursussen kan efficiënter
 Regelmatig verwijzen lesgevers naar leerstof uit andere vakken. Indien de student deze leerstof wilt controleren, is een uitgebreide zoektocht doorheen de computer of de dozen met oude cursussen op zolder vaak onvermijdelijk. De uiteindelijk gevonden cursus dient dan ook nog eens van voren naar achteren uitgepluisd te worden om de link te kunnen leggen met de nieuwe leerstof. Hier is dus nog ruimte voor efficiëntiewinst.  
 
-### Het up-to-date houden van de cursus is zeer tijdrovend en intensief. 
+### Het up-to-date houden van de cursus is zeer tijdrovend en intensief 
 Lesgevers besteden veel tijd en energie in het opstellen en onderhouden van een kwaliteitsvolle cursus. Studenten moeten immers niet alleen de basis van de materie beheersen, maar ook op de hoogte zijn van de laatste (internationale) ontwikkelingen binnen dat vakgebied. De lesgever moet dus de veelheid aan ontwikkelingen nauwgezet opvolgen. 
 Verder moet de lesgever ook instaan voor een cursus die zo gestructureerd en begrijpelijk mogelijk de leerstof presenteert. En als het ook nog even kan, omvat de cursus bij voorkeur nog een verscheidenheid aan multimedia en didactische werkvormen. 
 De lesgever staat hier doorgaans alleen voor en dient zelf maar in te schatten hoe duidelijk de huidige cursus is, want feedback komt pas als de examenperiode reeds gepasseerd is. 
