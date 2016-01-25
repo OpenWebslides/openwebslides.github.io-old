@@ -25,7 +25,7 @@ De lesgever staat hier doorgaans alleen voor en dient zelf maar in te schatten h
 ### Gesloten lesmateriaal
 Momenteel zijn cursusslides een ‘besloten gegeven’ tussen de lesgever en zijn/haar studenten.  Kwaliteitsvolle cursusslides kunnen bijgevolg maar moeilijk andere lesgevers van andere disciplines en universiteiten bereiken en als inspiratie dienen voor hun cursussen. Hierdoor worden mooie kansen voor mogelijke internationale visibiliteit, erkenning en zelfs samenwerkingen mislopen. 
 
-#Wat bieden Webslides.
+#Wat bieden Webslides?
 
 ### Eén laagdrempelig en gebruiksvriendelijk samenwerkingsplatform dat de afstand verkleint tussen:
 
