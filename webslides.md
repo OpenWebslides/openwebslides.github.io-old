@@ -9,7 +9,7 @@ Open webslides zijn online lesslides gemaakt in HTML, een opmaaktaal waarmee web
 
 <!--Afbeelding__ (in opbouw)-->
 
-Ook studenten kunnen bovendien een steentje bijdragen aan kwaliteitsvollere, overzichtelijkere slides. Door slides op een online samenwerkingsplatform te plaatsen, nodigt de lesgever iedereen uit om suggesties voor te stellen – direct tijdens de les, of meteen erna. Deze suggesties kunnen zowel over de vorm gaan, om de opbouw van de leerstof beter te structureren, als over de inhoud. Studenten kunnen onder andere meer uitleg vragen bij onduidelijkheden, interessante voorbeelden aanleveren , of discussiëren over een nieuw artikel. De lesgever kan dan de voorgestelde aanpassingen hij/zij relevant acht doorvoeren. Tegen de volgende les kan er dus al een update zijn!
+Bovendien kunnen ook studenten een steentje bijdragen aan kwaliteitsvollere, overzichtelijkere slides. Door slides op een online samenwerkingsplatform te plaatsen, nodigt de lesgever iedereen uit om suggesties voor te stellen – direct tijdens de les, of meteen erna. Deze suggesties kunnen zowel over de vorm gaan, om de opbouw van de leerstof beter te structureren, als over de inhoud. Studenten kunnen onder andere meer uitleg vragen bij onduidelijkheden, interessante voorbeelden aanleveren, of discussiëren over een nieuw artikel. De lesgever kan de voorgestelde aanpassingen die hij/zij relevant acht doorvoeren. Tegen de volgende les kan er dus al een update zijn!
 
 <img src="/../images/open-sourceMod.svg" alt="Drawing" style="width: 740px;"/>
 
@@ -18,8 +18,8 @@ Als samenwerkingsplatform zal het populaire [Github](https://www.github.com "Git
 Wat is er nog allemaal mogelijk?
 ------------
 
-* Open webslides kun je openen op zowel pc, tablet als op je smartphone.
-* Via URL's kan gemakkelijk doorgeklikt worden naar gerelateerde info uit andere cursussen of externe bronnen. 
-* Aanpassingen van anderen in de slides integreren wordt is eveneens een opportuniteit die het gebruik van HTML met zich meebrengt. Lesgevers kunnen dus gemakkelijk samenwerken aan dezelfde slides en de lesstofonderdelen optimaal op elkaar afstemmen.
+* Open webslides kan je openen op elk toestel met een webbrowser.
+* Via URL's kan je makkelijk doorklikken naar gerelateerde info uit andere cursussen of externe bronnen.
+* Lesgevers kunnen zeer gemakkelijk samenwerken aan dezelfde slides en zo leerstofonderdelen optimaal op elkaar afstemmen.
 
 ### In opbouw 
