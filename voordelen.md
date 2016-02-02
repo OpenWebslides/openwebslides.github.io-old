@@ -8,7 +8,7 @@ order: 30
 Voor studenten
 --------
 
-* Studenten kunnen veel snellere, meer gerichte **feedback** geven m.b.t. de lesslides.
+* Studenten kunnen veel sneller en gerichter **feedback** geven m.b.t. de lesslides.
 * Input van de studenten kan ook effectief deel van de cursus uitmaken.
 * Doordat alle mogelijkheden van het web integreerbaar zijn, worden de slides en de leerstof **dynamischer** en **interessanter**.
 * Gerelateerde slides van andere vakken worden snel en eenvoudig opgeroepen, wat bijdraagt to het verkrijgen van een **intergraal beeld** van de materie.
@@ -30,7 +30,7 @@ Voor UGent
 -------
 * Slides kunnen multidiscplinair naar elkaar linken.
 * De relevantie van onderwijsmateriaal wordt versterkt.
-	* antwoord op de MOOCs
+* antwoord op de MOOCs.
 * Open lesmateriaal brengt directe maatschappelijke valorisatie.
 	* effent de weg voor economische valorisatie.
 
