@@ -11,9 +11,9 @@ Voor studenten
 * Studenten kunnen veel sneller en gerichter **feedback** geven m.b.t. de lesslides.
 * Input van de studenten kan ook effectief deel van de cursus uitmaken.
 * Doordat alle mogelijkheden van het web integreerbaar zijn, worden de slides en de leerstof **dynamischer** en **interessanter**.
-* Gerelateerde slides van andere vakken worden snel en eenvoudig opgeroepen, wat bijdraagt to het verkrijgen van een **intergraal beeld** van de materie.
+* Gerelateerde slides van andere vakken worden snel en eenvoudig opgeroepen, wat bijdraagt to het verkrijgen van een **integraal beeld** van de materie.
 *  HTML-slides werken op **ieder toestel** (laptop, smartphone, tablet...) zonder software te installeren.
-* Door met Github en HTML te leren werken, ontwikkelen de studenten **waardevolle skills*.
+* Door met Github en HTML te leren werken, ontwikkelen de studenten **waardevolle skills**.
 
 Voor lesgevers
 --------
