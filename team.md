@@ -5,7 +5,12 @@ permalink: /team/
 order: 50
 ---
 
-<img src="/images/GroupPhotoFinalPitch1.jpg">
+<figure>
+  <img src="/images/GroupPhotoFinalPitch1.jpg" alt="">
+  <figcaption>
+    ©UGent, foto Hilde Christiaens
+  </figcaption>
+</figure>
 
 Het Innoversity Challenge-team voor open webslides
 bestaat uit 5 enthousiaste UGent'ers.

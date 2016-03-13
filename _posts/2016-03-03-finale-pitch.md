@@ -15,4 +15,9 @@ De studenten die bij Ruben les volgen met open webslides [blijven suggesties doe
 En ook vanuit verschillende faculteiten werden we al door professoren gecontacteerd om pilootprojecten op te zetten.
 Nog een laatste groepsfoto en dan samen met de andere teams in spanning afwachten wat het verdict van de jury wordt.
 
-<img src="/images/GroupPhotoFinalPitch2.jpg">
+<figure>
+  <img src="/images/GroupPhotoFinalPitch2.jpg" alt="">
+  <figcaption>
+    ©UGent, foto Hilde Christiaens
+  </figcaption>
+</figure>
