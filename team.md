@@ -5,6 +5,8 @@ permalink: /team/
 order: 50
 ---
 
+<img src="/images/GroupPhotoFinalPitch1.jpg">
+
 Het Innoversity Challenge-team voor open webslides
 bestaat uit 5 enthousiaste UGent'ers.
 
