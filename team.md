@@ -53,3 +53,25 @@ bestaat uit 5 enthousiaste UGent'ers.
   <p class="job">masterstudent</p>
   <p class="faculty">Faculteit Rechtsgeleerdheid</p>
 </div>
+
+
+Na de Innoversity Challenge blijft het team uitbreiden.
+
+<div class="person">
+  <img src="/images/Jo.jpg">
+  <p class="name">
+    <a href="https://www.linkedin.com/in/jotondeur">Jo Tondeur</a>
+    <a href="mailto:Jo.Tondeur@ugent.be" class="email">email</a>
+  </p>
+  <p class="job">postdoctoraal onderzoeker</p>
+  <p class="faculty">Faculteit Psychologie en Pedagogische Wetenschappen</p>
+</div>
+<div class="person">
+  <img src="/images/ClioJanssens.jpg">
+  <p class="name">
+    <a href="https://www.linkedin.com/in/clio-janssens-399b716b">Clio Janssens</a>
+    <a href="mailto:Clio.Janssens@ugent.be" class="email">email</a>
+  </p>
+  <p class="job">doctoraatsstudente</p>
+  <p class="faculty">Faculteit Psychologie en Pedagogische Wetenschappen</p>
+</div>
