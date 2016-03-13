@@ -6,7 +6,7 @@ order: 40
 ---
 
 
-<iframe name='iframe1' id="iframe1" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 1500px;" scrolling="no"  src="http://rubenverborgh.github.io/InnoversityChallenge/"></iframe>
+<iframe name='iframe1' id="iframe1" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 1500px;" scrolling="no"  src="http://rubenverborgh.github.io/InnoversityChallengeFinalPitch/"></iframe>
 
 <!--
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
@@ -18,5 +18,3 @@ order: 40
 	}); 
 	</script>
 -->
-
-###  In opbouw.
