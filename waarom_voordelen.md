@@ -39,7 +39,7 @@ Voor UGent
 -------
 
 De UGent zet in op multiperspectivisme, activerend onderwijs en de integratie van onderzoeksexpertise in het onderwijs.
-Waardevolle doelstellingen, maar hoe breng je die concreet in de praktijk? 
+Waardevolle doelstellingen, maar hoe breng je die concreet in de praktijk? Open Webslides kunnen hier een antwoord op bieden!
 
 * Slides kunnen **multidisciplinair** naar elkaar linken.
 * Alle **activerende onderwijstools** die op het web te vinden zijn kunnen meteen in de webslides gebruikt worden.
