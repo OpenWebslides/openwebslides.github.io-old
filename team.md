@@ -27,7 +27,7 @@ bestaat uit 5 enthousiaste UGent'ers.
 <div class="person">
   <img src="/images/esther.jpg">
   <p class="name">
-    <a href="https://www.researchgate.net/profile/Esther_De_Loof">Esther De Loof</a>
+    <a href="https://be.linkedin.com/in/estherdeloof">Esther De Loof</a>
     <a href="mailto:esther.deloof@ugent.be" class="email">email</a>
   </p>
   <p class="job">doctoraatsstudente</p>
