@@ -38,4 +38,4 @@ Ja, je hoeft geen letter code te kunnen schrijven om aan de slag te gaan.
 Er zijn heel wat web-applicaties die je een vlotte interface bieden om webslides te maken. 
 Eén van de mogelijke interfaces met een intuïtieve demo is bijvoorbeeld [Slides](https://slides.com/).
 
-De eerste UGent cursus met open webslides is trouwens al van start gegaan in februari 2016: de cursus [internettechnologie](http://rubenverborgh.github.io/WebFundamentals/#).
+De eerste UGent cursus met open webslides is trouwens al van start gegaan in februari 2016: de [cursus internettechnologie](http://rubenverborgh.github.io/WebFundamentals/#).
