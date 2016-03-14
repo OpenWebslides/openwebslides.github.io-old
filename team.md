@@ -2,7 +2,7 @@
 layout: page
 title: Team
 permalink: /team/
-order: 50
+order: 40
 ---
 
 <figure>

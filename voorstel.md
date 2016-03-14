@@ -2,7 +2,7 @@
 layout: page
 title: UGent project
 permalink: /project/
-order: 40
+order: 30
 ---
 
 
