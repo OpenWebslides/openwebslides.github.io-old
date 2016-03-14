@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Voorstel
-permalink: /voorstel/
+title: UGent project
+permalink: /project/
 order: 40
 ---
 
