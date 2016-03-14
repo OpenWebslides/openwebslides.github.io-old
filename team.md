@@ -74,7 +74,7 @@ Na de Innoversity Challenge blijft het team uitbreiden.
   <p class="faculty">Faculteit Psychologie en Pedagogische Wetenschappen</p>
 </div>
 <div class="person">
-  <img src="/images/ClioJanssens.jpg">
+  <img src="/images/ClioJanssens.png">
   <p class="name">
     <a href="https://www.linkedin.com/in/clio-janssens-399b716b">Clio Janssens</a>
     <a href="mailto:Clio.Janssens@ugent.be" class="email">email</a>
