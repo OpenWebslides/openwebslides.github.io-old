@@ -87,9 +87,9 @@ Mee aan boord?
 ------------
 
 Heeft u, als docent, ook zin om met open webslides aan de slag te gaan? 
-Neem gerust <a href="mailto:listserv@lists.ugent.be?subject=subscribe%20openwebslides%20Your%20Name">subscribe</a> op om van gedachten te wisselen over hoe webslides binnen uw lessen kunnen passen. 
+Neem gerust <a href="mailto:estherdeloof@gmail.com">contact</a> op om van gedachten te wisselen over hoe webslides binnen uw lessen kunnen passen. 
 
-Geïnteresseerd om het open webslides verhaal te blijven volgen? Via de <a href="mailto:openwebslides@lists.ugent.be">Mailing list</a> blijft u op de hoogte van workshops en pilootprojecten. 
+Geïnteresseerd om het open webslides verhaal te blijven volgen? Via de <a href="mailto:listserv@lists.ugent.be?subject=subscribe%20openwebslides%20Your%20Name">mailing list</a> blijft u op de hoogte van workshops en pilootprojecten. 
 
 Er is geen enkele voorkennis nodig voor mee te stappen in een **pilootproject**. 
 Ons doel is immers om ook docenten die gedurende hun hele loopbaan gebruik maakten van Powerpoint 
