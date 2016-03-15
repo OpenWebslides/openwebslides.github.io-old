@@ -11,7 +11,11 @@ Open webslides zijn online lesslides gemaakt in HTML, een opmaaktaal waarmee web
 Doordat ze op dezelfde manier in elkaar zitten als websites, kunnen alle mogelijkheden die het web biedt naadloos en 
 eenvoudig in de slides geïntegreerd worden. 
 YouTube-filmpjes, tweets van Twitter, interactieve webpagina's, dynamische grafieken etc… alles kan in een 
-handomdraai toegevoegd worden aan het lesmateriaal!
+handomdraai toegevoegd worden aan het lesmateriaal! 
+Via een link kan je met één muisklik vanuit de slide naar gerelateerd materiaal op het web navigeren.
+Omdat elke slide eigenlijk een website op zichzelf is en een eigen webadres heeft, 
+kan ook vanop andere media (Facebook, Twitter…) naar een specifieke slide gelinkt worden. 
+Discussies op het Minervaforum, Facebook en andere media kunnen dus veel gerichter, op slideniveau, doorgaan.
 
 <img src="/../images/OverviewDesign.jpg" alt="" style="width: 740px;">
 
