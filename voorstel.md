@@ -5,6 +5,13 @@ permalink: /project/
 order: 30
 ---
 
+<figure>
+  <img src="/images/TeamWithAnneDePaepe1.jpg" alt="">
+  <figcaption>
+    ©UGent, foto Hilde Christiaens
+  </figcaption>
+</figure>
+
 Open Webslides voor en door de UGent community
 --------
 
