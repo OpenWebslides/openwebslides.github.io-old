@@ -42,11 +42,23 @@ gebruikt worden, een online community waarop al tienduizenden softwareprojecten 
 Wat betekent ‘Open’ nu eigenlijk?
 ------------
 
-Dit aspect mogen de docenten zelf invullen: 
-ze kunnen ervoor kiezen hun slides uitsluitend **zichtbaar** te maken binnen de UGent 
-(voor studenten en collega’s), of voor iedereen op het publieke web. 
-Ook staat het de docenten vrij om enkel de studenten en medelesgevers **veranderingen** te laten suggereren, 
-of suggesties toe te laten van iedereen binnen en buiten UGent. 
+Dit aspect mogen de docenten zelf invullen: ze kunnen zelf kiezen hoe open hun webslides zijn op het vlak van
+aanpasbaarheid en zichtbaarheid.
+
+De **aanpasbaarheid** is eenvoudig te variëren: de docent kan ervoor kiezen als enige het recht te behouden
+om suggesties te valideren of af te keuren. Alternatief kunnen ook medelesgever en assistenten dat recht 
+toegekend worden of bijvoorbeeld de cursusdienst van de studentenvereniging. Dit heeft de docent volledig zelf in handen.
+
+De **zichtbaarheid** is technisch gezien even gemakkelijk te variëren, maar het is belangrijk inbreuken op auteursrechten te voorkomen.
+Kort geschetst kan een docent kiezen tussen twee systemen.
+Enerzijds kan er gekozen worden om de content achter een UGent log-in te plaatsen. 
+Wanneer de content voor niet-economische onderwijsdoeleinden achter log-in wordt geplaatst 
+biedt de wet een ruime bescherming terzake. 
+Anderzijds kan de docent de content openbaar toegankelijk maken, ook buiten de UGent community. 
+In dat geval zijn de mogelijkheden beperkter. 
+Het is van belang dat de docent steeds goed nagaat of de 
+content auteursrechtelijk gedekt is en de toestemming van de auteur vereist is. 
+Indien er twijfel ontstaat over content die u online wil plaatsen kan u ons steeds contacteren voor bijkomende ondersteuning. 
 
 Zijn webslides gemakkelijk te maken?
 ------------
