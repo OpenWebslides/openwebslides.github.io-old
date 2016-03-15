@@ -47,7 +47,7 @@ zodat we de volledige UGent community kunnen bereiken.
 
 Zin om dit alles eens te zien met open webslides? Klik dan op één van de slides hieronder.
 
-<iframe name='iframe1' id="iframe1" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 1500px;" scrolling="no"  src="http://rubenverborgh.github.io/InnoversityChallengeFinalPitch/"></iframe>
+<iframe name='iframe1' id="iframe1" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height: 463px;" scrolling="no"  src="http://rubenverborgh.github.io/InnoversityChallengeFinalPitch/"></iframe>
 
 <!--
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
