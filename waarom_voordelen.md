@@ -43,5 +43,6 @@ Waardevolle doelstellingen, maar hoe breng je die concreet in de praktijk? Open 
 
 * Slides kunnen **multidisciplinair** naar elkaar linken.
 * Alle **activerende onderwijstools** die op het web te vinden zijn kunnen meteen in de webslides gebruikt worden.
+* Door een link naar een relevante paper te plaatsen bij een stelling, wordt het **onderwijs rechtstreeks gelinkt aan UGent onderzoek**.
 * Door lesmateriaal open te stellen draagt het onderwijs bij tot **maatschappelijke valorisatie** van UGent kennis.
 * Bovendien zet deze publieke UGent expertise ook de deur open voor **economische valorisatie**.
