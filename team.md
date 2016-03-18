@@ -93,5 +93,5 @@ Geïnteresseerd om het open webslides verhaal te blijven volgen? Via de <a href=
 
 Er is geen enkele voorkennis nodig om mee te stappen in een **pilootproject**. 
 Ons doel is immers om ook docenten die gedurende hun hele loopbaan gebruik maakten van Powerpoint 
-vlot de overstap naar open webslides te laten maken. 
+vlot te laten overstappen naar open webslides. 
 
