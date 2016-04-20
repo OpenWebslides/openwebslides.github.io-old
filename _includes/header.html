@@ -13,10 +13,11 @@
       <ul>
         {% assign sorted_pages = site.pages | sort:"order" %}
         {% for my_page in sorted_pages %}
-          {% if my_page.title %}
+          {% if my_page.title and my_page.menu != false %}
           <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
           {% endif %}
         {% endfor %}
+        <li><a href="/en/webslides">English</a></li>
       </ul>
     </nav>
 </header>
