@@ -17,7 +17,7 @@ Because every slide is a website in itself and because each slide has its own we
 from any other web platform (such as Facebook, Twitter...).
 Therefore, discussions on the Minerva fora, Facebook and other media can take place in a more focused way, referring to specific slides.
 
-<img src="/../images/webslidesEnglish1.jpg" alt="" style="width: 740px;">
+<img src="/../images/webslidesEnglish1.JPG" alt="" style="width: 740px;">
 
 Co-creation
 ------------
@@ -34,7 +34,7 @@ illustrate difficult concepts or add a link to a relevant publication.
 The lecturer can then accept or reject the proposed adjustments and by simply clicking a button the official course slides will be updated.
 An updated version of the course material is thereby available to all students in a matter of seconds.
 
-<img src="/../images/webslidesEnglish2.jpg" alt="Drawing" style="width: 740px;"/>
+<img src="/../images/webslidesEnglish2.JPG" alt="Drawing" style="width: 740px;"/>
 
 As our central collaboration platform we will be using the popular [Github](https://www.github.com "Github Homepage")
 platform. This is an online community that is already sharing and collaborating on some 10.000 software projects.
