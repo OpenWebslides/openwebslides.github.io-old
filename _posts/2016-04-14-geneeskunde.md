@@ -8,4 +8,4 @@ Het werd een hands-on sessie waarin de studenten zelf webslides maakten met [sli
 hun mening gaven via [Mentimeter](https://www.mentimeter.com/), sociale annotaties verkenden via [Perusall](https://perusall.com/) 
 en de mogelijkheden van co-creatie leerden kennen via [GitHub](https://github.com/RubenVerborgh/WebFundamentals).
 
-De webslides voor het overleg me de input van de studentenvertegenwoordigers kan je [hier](http://slides.com/estherdeloof/deck) vinden.
+De webslides voor het overleg me de input van de studentenvertegenwoordigers kan je [hier](http://slides.com/openwebslides/geneeskunde#/) vinden.
