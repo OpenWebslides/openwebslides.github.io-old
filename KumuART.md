@@ -1,6 +1,6 @@
 ---
 layout: pageKUMU
-title: ART seminar at KUMU museum, Tallinn
+title: ART seminar at KUMU Art museum, Tallinn
 permalink: /KumuART/
 menu: false
 order: 110
