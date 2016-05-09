@@ -9,7 +9,7 @@ order: 110
 <figure>
   <img src="http://www.mimoa.eu/images/2764_l.jpg" alt="">
   <figcaption>
-    ©KUMU website, foto Kaaido Haagen 
+    ©KUMU website, photograph Kaaido Haagen 
   </figcaption>
 </figure>
 
