@@ -20,7 +20,7 @@ Onze visie vind je op deze website:
 
 De technologie voor webslides draait reeds
 (zie bijvoorbeeld onze cursus [Web Fundamentals](http://rubenverborgh.github.io/WebFundamentals/)),
-maar we willen nu een platfom
+maar we willen nu een platform
 waarop lesgevers en studenten zonder technische achtergrond
 ook slides kunnen bewerken.
 
