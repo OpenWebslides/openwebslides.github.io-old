@@ -16,7 +16,7 @@ worden deel van de cursussen.
 Onze visie vind je op deze website:
 [https://openwebslides.github.io/](openwebslides.github.io).
 
-<a href="/webslides/"><img src="/images/OverviewDesign.jpg" alt="" style="max-height: 260px; margin: 0 auto; display: block;"></a>
+<a href="/webslides/"><img src="/images/OverviewDesignWithoutMouse.jpg" alt="" style="max-height: 260px; margin: 0 auto; display: block;"></a>
 
 De technologie voor webslides draait reeds
 (zie bijvoorbeeld onze cursus [Web Fundamentals](http://rubenverborgh.github.io/WebFundamentals/)),
