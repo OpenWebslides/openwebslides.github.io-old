@@ -5,16 +5,18 @@ permalink: /team/
 order: 40
 ---
 
-<figure>
-  <img src="/images/GroupPhotoFinalPitch1.jpg" alt="">
-  <figcaption>
-    ©UGent, foto Hilde Christiaens
-  </figcaption>
-</figure>
-
 Het Innoversity Challenge-team voor open webslides
-bestaat uit 5 enthousiaste UGent'ers.
+bestaat uit deze enthousiaste UGent'ers:
 
+<div class="person">
+  <img src="/images/question-mark.svg">
+  <p class="name">
+    <a href="/vacatures/developer/">Jij? Creatieve webdeveloper gezocht!</a>
+    <a href="/vacatures/developer/" class="email">vacature</a>
+  </p>
+  <p class="job">Versterk ons team voor een unieke uitdaging!</p>
+  <p class="faculty">Kom langs voor een babbel.</p>
+</div>
 <div class="person">
   <img src="/images/ruben.jpg">
   <p class="name">
@@ -95,3 +97,9 @@ Er is geen enkele voorkennis nodig om mee te stappen in een **pilootproject**.
 Ons doel is immers om ook docenten die gedurende hun hele loopbaan gebruik maakten van Powerpoint 
 vlot te laten overstappen naar open webslides. 
 
+<figure>
+  <img src="/images/GroupPhotoFinalPitch1.jpg" alt="">
+  <figcaption>
+    ©UGent, foto Hilde Christiaens
+  </figcaption>
+</figure>
