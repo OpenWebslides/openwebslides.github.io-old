@@ -51,6 +51,7 @@ en dat allemaal zonder 1 letter code – want **jouw interface** maakt dit super
 - vrijheid om **je eigen platform** uit te werken
 - aansturing door **web- en pedagogie-experts**
 - een **contract van 1 jaar** om dit te realiseren
+- verloning volgens [ATP functieklasse B](http://www.ugent.be/nl/vacatures/verloningatp.htm)
 
 Starten kan van zodra jij er klaar voor bent!
 
