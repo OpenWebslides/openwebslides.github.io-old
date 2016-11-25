@@ -7,8 +7,7 @@ menu: false
 ## Missie: verander onderwijs aan de UGent met webslides
 Ben jij een webdeveloper die klaar is
 voor een bijzondere, once-in-a-lifetime vacature?
-Aan de UGent willen we alle **PowerPoint-slides weggooien**
-om plaats te maken voor **webslides**:
+Aan de UGent willen we **PowerPoint-slides vervangen door webslides**:
 dit zijn slides gemaakt met HTML, CSS en JavaScript.
 Hierdoor kan het universitair onderwijs eindelijk met z’n tijd mee:
 YouTube-filmpjes, tweets, Facebook-berichten, en interactieve polls
