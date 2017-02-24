@@ -2,3 +2,13 @@
 layout: default
 title: 'News'
 ---
+
+{% for post in site.posts %}
+<section>
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <h3><span class="blue">{{ post.title }}</span> - <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
+      {{ post.content }}
+    </div>
+  </div>
+{% endfor %}
