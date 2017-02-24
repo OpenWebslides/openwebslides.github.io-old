@@ -1,7 +1,29 @@
-# Site settings
-title: Open Webslides
-baseurl: ""
-url: "http://openwebslides.github.io"
+###########
+# site.url, site.title
 
-# Build settings
+title: 'Open Webslides'
+
+## note:
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+url:  ''
+
+
+########
+# more settings
+
 markdown: kramdown
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+

@@ -1,0 +1,67 @@
+---
+---
+
+// add bootstrap variable settings here
+
+@import 'bootstrap';
+@import url("http://fonts.googleapis.com/css?family=Roboto:500,300");
+
+
+
+// add more css stuff here
+
+body {
+  padding-top: 50px;
+  font-family: "Roboto", Helvetica, sans-serif;
+  color: #555f66;
+	font-size: 14pt;
+	font-weight: 300;
+	line-height: 1.75em;
+}
+
+.active {
+  color: #666f77;
+  font-weight: 500;
+}
+
+.content {
+  padding: 40px 15px;
+}
+
+.navbar {
+  background-color: white;
+}
+
+.navbar.bottom-border {
+  border-bottom: 1px solid black;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+.blue {
+ color: #337ab7;
+}
+
+.grey-border {
+  border: 2px solid lightgrey;
+}
+
+.bigger-icon {
+  font-size: 2em;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1000px;
+  }
+}
