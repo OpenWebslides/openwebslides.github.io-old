@@ -65,3 +65,13 @@ h2 {
     width: 1000px;
   }
 }
+
+@media (min-width: 1200px) {
+  .container-wide {
+    width: 1300px;
+  }
+}
+
+.posts li {
+  font-size: 14px;
+}

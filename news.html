@@ -1,10 +1,22 @@
 ---
-layout: default
+layout: posts
 title: 'News'
 ---
 
+<div class="col-md-4">
+  <ul class='posts list-unstyled'>
+    {% for post in site.posts %}
+      <li>
+        <a href="#{{post.url}}">{{ post.title }}</a> -
+        <span class="date">{{ post.date | date: "%d/%m/%y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="col-md-8">
 {% for post in site.posts %}
-<section>
+<section id="{{post.url}}">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
       <h3><span class="blue">{{ post.title }}</span> - <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
@@ -12,3 +24,4 @@ title: 'News'
     </div>
   </div>
 {% endfor %}
+</div>
