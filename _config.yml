@@ -29,7 +29,7 @@ navigation_nl:
 - text: Home
   url: /nl/welkom
 - text: Cocoon
-url: https://project-cocoon.github.io/
+  url: https://project-cocoon.github.io/
 - text: Mindset
   url: /nl/mindset
 - text: Tool
