@@ -6,7 +6,41 @@ title: 'Open Webslides'
 ## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
-url:  ''
+url:  ""
+
+navigation_en:
+- text: Home
+  url: /
+- text: Cocoon
+  url: https://project-cocoon.github.io/
+- text: Mindset
+  url: /en/mindset
+- text: Tool
+  url: /en/tool
+- text: Team
+  url: /en/team
+- text: Contact
+  url: /en/contact
+- text: News
+  url: /en/news
+  layout: post
+
+navigation_nl:
+- text: Home
+  url: /nl/welkom
+- text: Cocoon
+  url: https://project-cocoon.github.io/
+- text: Mindset
+  url: /nl/mindset
+- text: Tool
+  url: /nl/tool
+- text: Team
+  url: /nl/team
+- text: Contact
+  url: /nl/contact
+- text: Nieuws
+  url: /nl/nieuws
+  layout: post
 
 
 ########

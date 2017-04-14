@@ -1,9 +1,13 @@
 ---
-layout: posts
+layout: posts.nl
 title: 'News'
+lang: nl
+ref: news
+permalink: /nl/nieuws
+comments: true
 ---
 
-<div class="col-md-4">
+<div class="post-nav">
   <ul class='posts list-unstyled'>
     {% for post in site.posts %}
       <li>
@@ -14,7 +18,7 @@ title: 'News'
   </ul>
 </div>
 
-<div class="col-md-8">
+<div class="col-md-8 col-md-offset-4 col-sm-7 col-sm-offset-5 news-posts">
 {% for post in site.posts %}
 <section id="{{post.url}}">
   <div class="row">

@@ -1,0 +1,30 @@
+---
+layout: posts
+title: 'News'
+lang: en
+ref: news
+permalink: /en/news
+---
+
+<div class="post-nav">
+  <ul class='posts list-unstyled'>
+    {% for post in site.posts %}
+      <li>
+        <a href="#{{post.url}}">{{ post.title }}</a> -
+        <span class="date">{{ post.date | date: "%d/%m/%y" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="col-md-8 col-md-offset-4 news-posts">
+{% for post in site.posts %}
+<section id="{{post.url}}">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <h3><span class="blue">{{ post.title }}</span> - <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
+      {{ post.content }}
+    </div>
+  </div>
+{% endfor %}
+</div>

@@ -7,8 +7,12 @@
 @import url("http://fonts.googleapis.com/css?family=Roboto:500,300");
 
 
-
 // add more css stuff here
+
+html {
+  position: relative;
+  min-height: 100%;
+}
 
 body {
   padding-top: 50px;
@@ -17,6 +21,7 @@ body {
 	font-size: 14pt;
 	font-weight: 300;
 	line-height: 1.75em;
+  margin-bottom: 60px;
 }
 
 .active {
@@ -74,4 +79,50 @@ h2 {
 
 .posts li {
   font-size: 14px;
+}
+
+.en:lang(en), .nl:lang(nl){
+    font-weight: bold;
+}
+
+.lang-select {
+  color: #FFD200;
+}
+
+.lang-select:hover {
+  color: #FFD200;
+}
+
+footer {
+  border-top: 1px solid #337ab7;
+  padding-top: 10px;
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+footer .container {
+  clear: both;
+}
+
+.post-nav {
+  position: fixed;
+  padding-left: 20px;
+}
+
+@media screen and (max-width: 990px) {
+    nav {
+      font-size: 15px;
+    }
+    .news-posts {
+      font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .post-nav {
+        position: relative;
+        width: 100%;
+    }
 }
