@@ -2,7 +2,7 @@
 title: "Eerste coaching-dag"
 date: 2015-12-14 20:00:00 +0100
 ---
-Vandaag was de eerste coaching-dag
+Vandaag was de eerste van twee coaching-dagen
 van de Innoversity Challenge.
 Ruben, Esther en Bram stelden het idee rond open webslides voor aan de jury.
 Uiteraard presenteerden we ons idee aan de hand van [webslides](http://rubenverborgh.github.io/InnoversityChallenge/).
