@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Overleg met assistenten Bio-ingenieurswetenschappen"
+title: "Overleg assistenten bio-ingenieurswetenschappen"
 date: 2016-07-06 12:00:00 +0100
 ---
-Op vrijdag 20 mei gaat het Leercafé 'De Social Teacher' door n.a.v. de publicatie van het gelijknamige boek (Acco, 2016).
+Op 6 juli was COCOON/Open Webslides vertegenwoordigd op de brainstorm sessie van de assistenten bij de bio-ingenieurswetenschappen. Op deze sessie werden het gebruik van [The Jupyter Notebook](https://ipython.org/notebook.html) geëvalueerd en de plannen voor volgend jaar besproken. Wij waren erbij om onze [input](http://slides.com/openwebslides/bioingenieurs) te geven.
 
-De voorstelling van het boek wordt omkaderd met twee keynotes, waarvan één door Jo Tondeur over "The Social Teacher: recepten om samen onderwijs te ontwerpen in een digitale wereld".
-De presentatie wordt een experiment in het gebruik van sociale educatietools en co-teaching, ondersteund met open webslides hier u [hier](http://slides.com/openwebslides/socialteacher) kunt vinden.
-
+Jupyter Notebook biedt de mogelijkheid om code (zoals MATLAB, R, Python etc) te embedden in een online cursustekst en zelfs in een eigen soort webslides. Zeker de moeite om een te bekijken.
