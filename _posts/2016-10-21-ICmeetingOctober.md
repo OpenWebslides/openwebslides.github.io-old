@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Broodje Martinnovatie"
-date: 2016-11-10 12:00:00 +0100
+title: "Innoversity Challenge meeting"
+date: 2016-10-21 12:00:00 +0100
 ---
-Op donderdag 10 november stelden Ruben en Esther het idee en de implimentatie van webslides voor op een Broodje Martinnovatie aan de faculteit Wetenschappen van de UGent.
+Op vrijdag 21 oktober stelden Clio, Raphael en Esther
 
-Pieter De Clercq
-Sandra Vangestel
-
-[preview]()
 [webslides]()
 
