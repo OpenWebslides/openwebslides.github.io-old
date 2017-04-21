@@ -120,6 +120,9 @@ figcaption {
 .post-nav {
   position: fixed;
   padding-left: 20px;
+  padding-right: 20px;
+  max-height: 80vh;
+  overflow-y:scroll;
 }
 
 @media screen and (max-width: 990px) {
