@@ -20,12 +20,31 @@ comments: true
 
 <div class="col-md-8 col-md-offset-4 col-sm-7 col-sm-offset-5 news-posts">
 {% for post in site.posts %}
-<section id="{{post.url}}">
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1">
-      <h3><span class="blue">{{ post.title }}</span> - <span class="date">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
-      {{ post.content }}
+  <section id="{{post.url}}">
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+        <h3><span class="blue">{{ post.title }}</span> - <span class="date">
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}Januari
+            {% when '2' %}Februari
+            {% when '3' %}Maart
+            {% when '4' %}April
+            {% when '5' %}Mei
+            {% when '6' %}Juni
+            {% when '7' %}Juli
+            {% when '8' %}Augustus
+            {% when '9' %}September
+            {% when '10' %}Oktober
+            {% when '11' %}November
+            {% when '12' %}December
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+          </span></h3>
+        {{ post.content }}
+      </div>
     </div>
-  </div>
+  </section>
 {% endfor %}
 </div>
