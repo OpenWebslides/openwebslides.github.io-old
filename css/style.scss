@@ -100,10 +100,21 @@ footer {
   width: 100%;
   position: absolute;
   bottom: 0;
+  background-color: white;
 }
 
 footer .container {
   clear: both;
+  background-color: white;
+  margin-top: 30px;
+}
+
+.news-posts {
+  margin-bottom: 40px;
+}
+
+figcaption {
+  font-size: 10px;
 }
 
 .post-nav {
