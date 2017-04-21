@@ -1,11 +1,10 @@
 ---
-layout: post
 title: "Broodje Martinnovatie"
 date: 2016-11-10 12:00:00 +0100
 ---
 Op vraag van onderwijsinnovatoren Pieter De Clercq en Sandra Vangestel, stelden Ruben en Esther op donderdag 10 november het idee en de implimentatie van webslides voor op een Broodje Martinnovatie aan de faculteit Wetenschappen van de UGent.
 
-De geïnteresseerde docenten kregen op voorhand een [preview](https://openwebslides.github.io/BroodjeMartinnovatie/Preview/) van de presentatie doorgestuurd met daarin een [demo om webslides te maken met slides.com](https://openwebslides.github.io/BroodjeMartinnovatie/Preview/#demoslides) en een [demo om webslides te maken via het GitHub template van Ruben](https://openwebslides.github.io/BroodjeMartinnovatie/Preview/#demogithub). 
+De geïnteresseerde docenten kregen op voorhand een [preview](https://openwebslides.github.io/BroodjeMartinnovatie/Preview/) van de presentatie doorgestuurd met daarin een [demo om webslides te maken met slides.com](https://openwebslides.github.io/BroodjeMartinnovatie/Preview/#demoslides) en een [demo om webslides te maken via het GitHub template van Ruben](https://openwebslides.github.io/BroodjeMartinnovatie/Preview/#demogithub).
 
 In een flipped classroom formaat bevroegen we de interesses van de docenten en ontworpen op basis van die input de [webslides](https://openwebslides.github.io/BroodjeMartinnovatie/) voor de presentatie. We merkten dat docenten geïnteresseerd waren in de verhoogde interactiemogelijkheden tijdens de les enerzijds en de co-creatie van lesmateriaal met studenten anderzijds.
 

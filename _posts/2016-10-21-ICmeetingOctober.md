@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Innoversity Challenge meetup Oktober"
 date: 2016-10-21 12:00:00 +0100
 ---
