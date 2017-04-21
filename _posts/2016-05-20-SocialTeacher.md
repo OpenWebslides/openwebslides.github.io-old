@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Social Teacher"
 date: 2016-05-16 12:00:00 +0100
 ---

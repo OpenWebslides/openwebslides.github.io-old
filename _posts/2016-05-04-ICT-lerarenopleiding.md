@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Gastles ICT in de lerarenopleiding"
 date: 2016-05-04 12:00:00 +0100
 ---

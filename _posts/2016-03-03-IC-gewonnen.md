@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Open Webslides wint Innoversity Challenge"
 date: 2016-03-03 22:00:00 +0100
 ---
 We hebben de UGent kunnen overtuigen van onze visie op de toekomst van onderwijs:
-die is open en speelt zich af op het web. 
+die is open en speelt zich af op het web.
 [Open Webslides wint daarmee de Innoversity Challenge](http://www.ugent.be/nl/actueel/persberichten/innoversity-challenge-vernieuwing-onderwijs-winnaars.htm) en het verhaal gaat door!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="nl" dir="ltr">Zeer <a href="https://twitter.com/hashtag/trots?src=hash">#trots</a> op teams <a href="https://twitter.com/hashtag/innoversity?src=hash">#innoversity</a> challenge. Veel talent, veel creatieve ideeën, veelbelovende toekomst! <a href="https://t.co/TxTrhiLDUx">pic.twitter.com/TxTrhiLDUx</a></p>&mdash; Anne De Paepe (@anne_depaepe) <a href="https://twitter.com/anne_depaepe/status/705367241341190148">March 3, 2016</a></blockquote>
